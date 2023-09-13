@@ -1,0 +1,21 @@
+
+ /* 取引後有無分類のマルチセレクトの下余白を調整 */
+#business_group + .select2-container .select2-selection--multiple {
+    padding-bottom: 5px;
+  }
+
+   /* 工事分類のマルチセレクトの下余白を調整 */
+#construction_category + .select2-container .select2-selection--multiple {
+    padding-bottom: 5px;
+  }
+
+   /* 施工エリアのマルチセレクトの下余白を調整 */
+#honseki_name + .select2-container .select2-selection--multiple {
+    padding-bottom: 5px;
+  }
+
+
+  /* 所掌範囲のマルチセレクトの下余白を調整 */
+ #order_detail + .select2-container .select2-selection--multiple {
+    padding-bottom: 5px;
+  }
